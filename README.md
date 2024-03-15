@@ -1,2 +1,7 @@
 # Computer-Science
-CS(Computer Science) 정리
+* 운영체제
+* 네트워크
+* 데이터베이스
+* 자료구조 및 알고리즘
+* 파이썬
+* 기타
